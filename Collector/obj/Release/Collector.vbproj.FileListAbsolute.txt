@@ -1,0 +1,13 @@
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\bin\Release\Collector.exe.config
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\bin\Release\Collector.exe
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\bin\Release\Collector.pdb
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\bin\Release\Collector.xml
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\bin\Release\SnmpSharpNet.dll
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\obj\Release\Collector.frmDevice.resources
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\obj\Release\Collector.frmMain.resources
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\obj\Release\Collector.Resources.resources
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\obj\Release\Collector.vbproj.GenerateResource.Cache
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\obj\Release\Collector.exe
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\obj\Release\Collector.xml
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\obj\Release\Collector.pdb
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Collector\Collector\obj\Release\Collector.vbprojResolveAssemblyReference.cache
